@@ -1,3 +1,4 @@
+
 function CalcularGorjeta(){
     let valorTotal = document.querySelector("#valor").value
     valorGorjeta = valorTotal * 0.1

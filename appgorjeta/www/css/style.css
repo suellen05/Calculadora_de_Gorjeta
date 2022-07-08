@@ -1,6 +1,6 @@
 
 body{
-    background-color: teal;
+    background-color: rgb(128, 83, 0);
     color: white;
     font-family: sans-serif;
     text-align: center;
@@ -10,7 +10,7 @@ body{
 input{
      font-size: 20px;
      padding: 7px;
-     margin: 10px;
+     margin: 30px;
 
 }
 
@@ -22,6 +22,8 @@ button{
     border: 0;
     color: white;
     font-weight: bold;
+    margin: 50px;
+
 }
 
 
